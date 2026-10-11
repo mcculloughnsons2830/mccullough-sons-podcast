@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>McCullough &amp; sons</title>
+  <description>Weekly deep dives from McCullough &amp; sons: the UAP files and the science of propulsion, plus mapping power, the deep state, and what is actually happening.</description>
+  <language>en</language>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://mcculloughnsons2830.github.io/mccullough-sons-podcast/feed.xml" rel="self" type="application/rss+xml" />
+  <itunes:image href="https://muse.ai/podcasts/media/1305994119261121/13f675e0-fa38-459b-9937-55fccd96ac2a/cover.png" />
+  <image>
+    <url>https://muse.ai/podcasts/media/1305994119261121/13f675e0-fa38-459b-9937-55fccd96ac2a/cover.png</url>
+    <title>Deep Dives with Joshua</title>
+    <link>https://muse.ai/podcasts/feed/1305994119261121/13f675e0-fa38-459b-9937-55fccd96ac2a</link>
+  </image>
+  <item>
+    <title>The Warp Drive Files: What the Government's UAP Releases Say About Propulsion</title>
+    <description>Marcus and Devon dig into the September 2026 PURSUE release: 37 declassified studies on warp drives, wormholes and antigravity, and what the physics says about how these objects might fly.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1305994119261121/13f675e0-fa38-459b-9937-55fccd96ac2a/ep-0b10d714-557e-4225-8c6f-426ad03f8dd4.mp3" length="3783589" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-0b10d714-557e-4225-8c6f-426ad03f8dd4</guid>
+    <pubDate>Sun, 11 Oct 2026 13:52:44 +0000</pubDate>
+    <itunes:duration>472</itunes:duration>
+  </item>
+  <item>
+    <title>The Deep State Map: What Trump Has Done, Threatened, and Only Been Claimed</title>
+    <description>Reid and Theo map Trump's second-term actions against the deep state: the documented purges, the threatened Insurrection Act, and the tribunal claims with no evidence.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1305994119261121/13f675e0-fa38-459b-9937-55fccd96ac2a/ep-3e1b8cb1-3ada-4ef9-9aca-94ad9183bb71.mp3" length="3975397" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-3e1b8cb1-3ada-4ef9-9aca-94ad9183bb71</guid>
+    <pubDate>Sun, 11 Oct 2026 13:52:57 +0000</pubDate>
+    <itunes:duration>496</itunes:duration>
+  </item>
+  <item>
+    <title>Welcome to McCullough &amp; sons</title>
+    <description>The trailer: two shows, one feed. Monday UAP files, Thursday power mapping.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1305994119261121/13f675e0-fa38-459b-9937-55fccd96ac2a/ep-d8427e6d-9754-49e5-8713-09f4740e1a93.mp3" length="187621" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-d8427e6d-9754-49e5-8713-09f4740e1a93</guid>
+    <pubDate>Sun, 11 Oct 2026 14:02:40 +0000</pubDate>
+    <itunes:duration>23</itunes:duration>
+  </item>
+<itunes:author>McCullough &amp; sons</itunes:author><managingEditor>mcculloughnsons89@gmail.com (McCullough &amp; sons)</managingEditor><itunes:owner><itunes:name>Joshua McCullough</itunes:name><itunes:email>mcculloughnsons89@gmail.com</itunes:email></itunes:owner></channel>
+</rss>
